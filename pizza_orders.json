@@ -1,0 +1,18 @@
+[
+    {
+        "pizza_type": "Chocolate",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 75.6,
+        "discount_applied": "10%",
+        "order_datetime": "2025-08-18-14:16:09"
+    },
+    {
+        "pizza_type": "Vegetable",
+        "order_type": "Box",
+        "quantity": 8,
+        "total_price": 28.8,
+        "discount_applied": "10%",
+        "order_datetime": "2025-08-18-14:19:51"
+    }
+]
