@@ -16,18 +16,20 @@ It supports **customer order tracking**, **cart management**, **receipts**, and 
 - Persistent storage using `pizza_orders.json`.  
 
 ---
-## Python Snippet
+
 ```python
 def calculate_payment(price, quantity, discount_rate=0.0):
     total = price * quantity
     discount = total * discount_rate
     return total - discount
+
+
 ## sample screenshot
 ### 🛒 Cart View
 ![Cart Screenshot](cart.png)
 
-###🧾 Receipt View
+### 🧾 Receipt View
 ![Receipt Screenshot](receipt.png)
 
-###📊 Sales Summary
+### 📊 Sales Summary
 ![Sales Summary Screenshot](sales_summary.png)
