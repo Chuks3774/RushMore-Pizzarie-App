@@ -22,9 +22,12 @@ def calculate_payment(price, quantity, discount_rate=0.0):
     total = price * quantity
     discount = total * discount_rate
     return total - discount
-## sample screenshot for cart,receipt and sale summary.
-![alt text](<Capture 2a.PNG>)
+## sample screenshot
+### 🛒 Cart View
+![Cart Screenshot](cart.png)
 
-![alt text](<Capture 2b.PNG>)
+###🧾 Receipt View
+![Receipt Screenshot](receipt.png)
 
-![alt text](<Capture 2c.PNG>)
+###📊 Sales Summary
+![Sales Summary Screenshot](sales_summary.png)
