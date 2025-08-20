@@ -14,5 +14,21 @@
         "total_price": 28.8,
         "discount_applied": "10%",
         "order_datetime": "2025-08-18-14:19:51"
+    },
+    {
+        "pizza_type": "Pepperoni",
+        "order_type": "Box",
+        "quantity": 9,
+        "total_price": 32.4,
+        "discount_applied": "10%",
+        "order_datetime": "2025-08-19-09:14:31"
+    },
+    {
+        "pizza_type": "Chocolate",
+        "order_type": "Slice",
+        "quantity": 10,
+        "total_price": 14.25,
+        "discount_applied": "5%",
+        "order_datetime": "2025-08-19-09:14:31"
     }
 ]
