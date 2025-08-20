@@ -26,10 +26,10 @@ def calculate_payment(price, quantity, discount_rate=0.0):
 
 ## sample screenshot
 ### 🛒 Cart View
-![Cart Screenshot](images/cart.png)
+![Cart Screenshot](images\cart.png)
 
 ### 🧾 Receipt View
-![Receipt Screenshot](images/receipt.png)
+![Receipt Screenshot](images\receipt.png)
 
 ### 📊 Sales Summary
-![Sales Summary Screenshot](images/sales_summary.png)
+![Sales Summary Screenshot](images\sales_summary.png)
