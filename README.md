@@ -22,8 +22,7 @@ def calculate_payment(price, quantity, discount_rate=0.0):
     total = price * quantity
     discount = total * discount_rate
     return total - discount
-
-
+```
 ## Sample Screenshot
 ### 🛒 Cart View
 ![Cart Screenshot](./images/cart.png)
